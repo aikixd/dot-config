@@ -4,3 +4,12 @@
 [submodule "environment.d"]
 	path = environment.d
 	url = git@github.com:aikixd/environment.d-config.git
+[submodule "fish"]
+	path = fish
+	url = git@github.com:aikixd/fish-config.git
+[submodule "tmux"]
+	path = tmux
+	url = git@github.com:aikixd/tmux-config.git
+[submodule "alacritty"]
+	path = alacritty
+	url = git@github.com:aikixd/alacritty-config.git
